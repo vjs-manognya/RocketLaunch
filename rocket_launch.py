@@ -71,7 +71,7 @@ def launch_sequence():
         time.sleep(0.1)
 
     clear_screen()
-    print("🚀 Rocket has launched into space!\n")
+    print(" Rocket has launched into space!\n")
 
 if __name__ == "__main__":
     launch_sequence()
